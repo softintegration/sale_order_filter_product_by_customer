@@ -2,7 +2,7 @@
 
 {
     'name': 'Sale order filter product by customer',
-    'version': '1.0.1',
+    'version': '1.0.2',
     'author':'Soft-integration',
     'category': 'Sale',
     'summary': '',
